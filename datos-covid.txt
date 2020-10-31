@@ -1,0 +1,15 @@
+4
+1 Pedro 2
+fiebre
+tos
+2 Miguel 3
+fiebre
+tos
+vomito
+3 Juan 4
+fiebre
+diarrea
+tos
+vomito
+4 Cristiano 1
+vomito
